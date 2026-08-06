@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/incharasn/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/incharasn/Leetcode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/incharasn/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/incharasn/Leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -46,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/incharasn/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/incharasn/Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
